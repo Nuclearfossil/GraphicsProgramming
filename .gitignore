@@ -1,0 +1,5 @@
+.vs/GraphicsProgramming/v16/.suo
+FixedFunctionOpenGL/bin/Debug/**
+FixedFunctionOpenGL/obj/**
+.vs/**
+packages/**
