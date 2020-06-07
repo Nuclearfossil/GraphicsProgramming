@@ -1,10 +1,11 @@
-﻿using System;
-using OpenTK;
+﻿using OpenTK;
 using OpenTK.Graphics.OpenGL;
+using OpenTK.Input;
+
+using System;
+using System.Collections.Generic;
 using System.Drawing.Imaging;
 using System.Drawing;
-using System.Collections.Generic;
-using OpenTK.Input;
 
 /// Disabling warning CS0618 as we're looking to illustrate the old fixed-functin pipeline.
 /// Otherwise we see the following warning:
