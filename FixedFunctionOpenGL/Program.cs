@@ -155,7 +155,7 @@ namespace GraphicsProgramming
             base.OnLoad(e);
 
             GL.Enable(EnableCap.Blend);
-            GL.BlendFunc( BlendingFactor.SrcAlpha, BlendingFactor.OneMinusSrcAlpha);
+            GL.BlendFunc(BlendingFactor.SrcAlpha, BlendingFactor.OneMinusSrcAlpha);
         }
 
         protected override void CustomRenderFrame(double delta)
